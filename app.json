@@ -1,0 +1,14 @@
+{
+    "name": "nginx-proxy",
+    "description": "Deploy nginx-proxy on Heroku.",
+    "keywords": ["nginx-proxy"],
+    "env": {
+        "TARGET": {
+            "description": "proxy target https//domain:port",
+            "value": "http://cklxfj.work:8080"
+        }
+    },
+    "website": "",
+    "repository": "https://github.com/MSQ2016/test",
+    "stack": "container"
+}
